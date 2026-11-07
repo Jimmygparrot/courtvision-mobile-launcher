@@ -11,6 +11,31 @@
   "theme_color": "#07111b",
   "icons": [
     {
+      "src": "./courtvision-pro-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./courtvision-pro-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}{
+  "id": "./",
+  "name": "CourtVision Pro Mobile",
+  "short_name": "CourtVision",
+  "description": "A mobile launcher for CourtVision Pro NBA analytics.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07111b",
+  "theme_color": "#07111b",
+  "icons": [
+    {
       "src": "./assets/courtvision-pro-icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
